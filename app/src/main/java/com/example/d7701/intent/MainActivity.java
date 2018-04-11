@@ -23,4 +23,7 @@ public class MainActivity extends AppCompatActivity {
         Intent intent2 = new Intent(Intent.ACTION_VIEW,Uri.parse("tel:010-3997-7195"));
         startActivity(intent2);
     }
+
+
+    //커밋이 되었을까요?
 }
